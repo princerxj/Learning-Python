@@ -1,1 +1,1 @@
-In this , rad about strings and its methods associated to it 
+In this , read about strings and its methods associated to it , then read about conditional statements and nesting .
