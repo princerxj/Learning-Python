@@ -25,3 +25,4 @@ print(str.capitalize())  # capitalise the first character of the string
 print(str.replace("old", "new"))  # replaces all the occurences of old with new
 print(str.find("world"))  # returns the 1st index of 1st occurence
 print(str.count("am"))  # counts the occurence of substr in the string
+#
