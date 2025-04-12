@@ -1,0 +1,1 @@
+In this , rad about strings and its methods associated to it 
