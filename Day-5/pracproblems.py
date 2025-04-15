@@ -24,6 +24,10 @@ while i < len(lst):
     print(lst[i])
     i += 1
 
+# Using for loop
+for el in lst:
+    print(el)
+
 # Search for a number in a tuple using loop
 tple = (1, 4, 9, 16, 25, 356, 49, 64, 81, 100)
 n = int(input("Enter the number to search : "))
@@ -34,6 +38,10 @@ while i < len(tple):
         flag = 1
         print(n, "is present at index", i, "in the tuple")
     i += 1
+# Using for loop
+for el in tple:
+    if (el == n):
+        print(n, "found")
 
 if (flag == 0):
     print("Number not found")
